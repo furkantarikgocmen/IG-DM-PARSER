@@ -8,3 +8,13 @@ c:\users\ftg\source\repos\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.cspro
 c:\users\ftg\source\repos\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.csproj.CopyComplete
 c:\users\ftg\source\repos\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.exe
 c:\users\ftg\source\repos\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.pdb
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\bin\Debug\IG-DM-PARSER.exe.config
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\bin\Debug\IG-DM-PARSER.exe
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\bin\Debug\IG-DM-PARSER.pdb
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.csprojAssemblyReference.cache
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.csproj.CoreCompileInputs.cache
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.csproj.CopyComplete
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.exe
+C:\Users\FTG\source\repos\IG-DM-PARSER\IG-DM-PARSER\IG-DM-PARSER\obj\Debug\IG-DM-PARSER.pdb
