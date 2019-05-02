@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/furkantarikgocmen/IG-DM-PARSER.svg?branch=master)](https://travis-ci.org/furkantarikgocmen/IG-DM-PARSER)
 # IG-DM-PARSER
 Messages.json parser for Instagram Back-Up
 # Turkish Title:
